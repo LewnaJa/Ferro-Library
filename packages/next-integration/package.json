@@ -1,0 +1,15 @@
+{
+  "name": "ferro-next-integration",
+  "version": "0.1.0",
+  "description": "Integracja Next.js z backendem Flask dla Ferro Framework",
+  "main": "index.js",
+  "files": ["*.ts", "*.tsx"],
+  "dependencies": {
+    "react": "^18.0.0",
+    "next": "^13.0.0"
+  },
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "next": "^12.0.0 || ^13.0.0"
+  }
+}

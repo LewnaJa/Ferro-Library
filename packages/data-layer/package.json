@@ -1,0 +1,10 @@
+{
+  "name": "ferro-data-layer",
+  "version": "0.1.0",
+  "description": "Warstwa dostêpu do danych dla Ferro Framework",
+  "main": "index.js",
+  "files": ["*.ts", "*.js"],
+  "dependencies": {
+    "axios": "^1.5.0"
+  }
+}

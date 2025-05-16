@@ -1,0 +1,17 @@
+{
+  "name": "ferro-ui-components",
+  "version": "0.1.0",
+  "description": "Komponenty UI dla Ferro Framework",
+  "main": "index.js",
+  "files": ["*.ts", "*.tsx", "utils.ts", "Button.tsx"],
+  "dependencies": {
+    "react": "^18.0.0",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.0.0",
+    "tailwind-merge": "^1.14.0"
+  },
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "tailwindcss": "^3.0.0"
+  }
+}
